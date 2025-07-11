@@ -164,7 +164,7 @@ Here are some screenshots of the platform in action:
 
 Check out the full video walkthrough of the platform:
 
-[Watch on Google Drive](https://drive.google.com/file/d/1nA8kfpkuQXd988Q4bp9nvmARgKyB7tuX/view?usp=sharing)
+[Watch on Google Drive (screenshot/Landing.png)](https://drive.google.com/file/d/1nA8kfpkuQXd988Q4bp9nvmARgKyB7tuX/view?usp=sharing)
 
 ---
 
