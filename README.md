@@ -138,6 +138,36 @@ Visit [http://localhost:3000](http://localhost:3000) to view the app.
 
 ---
 
+## 📸 Screenshots
+
+Here are some screenshots of the platform in action:
+
+| Dashboard                              | Dashboard (Alt)                              |
+| -------------------------------------- | -------------------------------------------- |
+| ![Dashboard](screenshot/Dashboard.png) | ![Dashboard 2](screenshot/Dashboard%202.png) |
+
+| Account                            | Account (Alt)                         |
+| ---------------------------------- | ------------------------------------- |
+| ![Account](screenshot/Account.png) | ![Account 2](screenshot/Account2.png) |
+
+| Add Transaction                                   | Add Transaction (Alt)                                |
+| ------------------------------------------------- | ---------------------------------------------------- |
+| ![Add Transaction](screenshot/AddTransaction.png) | ![Add Transaction 2](screenshot/AddTransaction2.png) |
+
+| Landing Page                       |
+| ---------------------------------- |
+| ![Landing](screenshot/Landing.png) |
+
+---
+
+## 🎥 Video Walkthrough
+
+Check out the full video walkthrough of the platform:
+
+[Watch on Google Drive](https://drive.google.com/file/d/1nA8kfpkuQXd988Q4bp9nvmARgKyB7tuX/view?usp=sharing)
+
+---
+
 ## 🙏 Credits
 
 - Built by Akhil Vijayan
